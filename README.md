@@ -1,5 +1,5 @@
 # BootcampHomeWork
-Apsiyon bootcamp 3. hafta blog web sitesi oluşturma ödevidir.
+Apsiyon .net Core bootcamp 3. hafta blog web sitesi oluşturma ödevidir.
 Asp.Net Core Mvc 5.0 ile oluşturulmuştur.
 Entities, DataAccess, Business, Core,Project katmanlarından oluşturulmuştur. 
 Code First yöntemi ile oluşturulmuştur. 
